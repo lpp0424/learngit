@@ -1,2 +1,2 @@
 dis version control
-free
+free GPL
